@@ -26,6 +26,9 @@ Real_Time_web_Java/
 ├── .gitattributes
 └── Readme.md
 ```
+## Images
+<img width="1758" height="785" alt="Screenshot 2026-10-03 034951" src="https://github.com/user-attachments/assets/008e3349-ab75-4505-b9d6-c63b84f61fe3" />
+<img width="1916" height="936" alt="Screenshot 2026-10-03 035303" src="https://github.com/user-attachments/assets/07f2c639-9d3a-40ae-a031-2583bc5172e8" />
 
 ## Getting Started
 
@@ -58,8 +61,6 @@ Then open **http://localhost:8080** in two or more browser tabs, enter a name, a
 
 - [ ] Private / one-to-one messages
 - [ ] Persistent message history (database)
-- [ ] User authentication
-- [ ] Image sharing
       
 ## Contributing
 
